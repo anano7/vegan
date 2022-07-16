@@ -108,7 +108,7 @@ margin-top: 22px;
 }
 .first{
     width: 46%;
-    height: 30px;
+    height: 44px;
      position: absolute; 
      top: 0;
       left: 0; 
@@ -170,6 +170,46 @@ margin-top: 22px;
       top: 360px;
        left: 50%;
       }
-.third .saboloo{
-    padding-top: 108px;
+.forth .saboloo{
+    width: 342px;
+    position: absolute;
+    top: 238px;
+ left: 198px;
+    
+}
+ .forth p{
+  margin-left: 400px; 
+   margin-top: 80px; 
+   padding-top: 40px;  
+} 
+
+
+/*homework8*/
+
+nav li:hover{
+    background-color: #339b38;
+}
+nav a:hover{
+    color: #ffffff;
+}
+.leaf2:hover{
+    background-color: #339b38;
+}
+.leaf3:hover{
+    background-color: #339b38;
+}
+.leaf4:hover{
+    background-color: #339b38;
+} 
+.first p:hover{
+    color: #339b38;
+}
+.second p:hover{
+    color: #339b38;
+}
+.third p:hover{
+    color: #339b38;
+}
+.forth p:hover{
+    color: #339b38;
 }
